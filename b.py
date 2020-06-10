@@ -1,0 +1,1 @@
+print("luv u jaanu")
